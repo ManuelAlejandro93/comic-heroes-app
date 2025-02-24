@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en sidebar. Simuladísimos. debe coincidir con el snapshot. 1`] = `
+<div>
+  <nav>
+    <ul>
+      <li>
+        <a
+          aria-current="page"
+          class="active"
+          href="/"
+        >
+          home
+        </a>
+      </li>
+      <li>
+        <a
+          class=""
+          href="/about"
+        >
+          about
+        </a>
+      </li>
+      <li>
+        <a
+          class=""
+          href="/marvel"
+        >
+          marvel
+        </a>
+      </li>
+      <li>
+        <a
+          class=""
+          href="/dc"
+        >
+          dc
+        </a>
+      </li>
+      <li>
+        <a
+          class=""
+          href="/search"
+        >
+          search
+        </a>
+      </li>
+      <li>
+        <a
+          class=""
+          href="/search?heroname=superman"
+        >
+          search + query params
+        </a>
+      </li>
+      <li>
+        <a
+          class=""
+          href="/logout"
+        >
+          logout
+        </a>
+      </li>
+      <li>
+        <a
+          class=""
+          href="/login"
+        >
+          login
+        </a>
+      </li>
+      <li>
+        <a
+          class=""
+          href="/quick-exit"
+        >
+          quick exit
+        </a>
+      </li>
+    </ul>
+  </nav>
+  <div>
+    Home Page
+  </div>
+</div>
+`;

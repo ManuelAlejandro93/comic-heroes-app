@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el contexto AuthProvider debe proveer coincidir con el snapshot 1`] = `
+<div>
+  <div>
+    <h1>
+      Pruebas en Auth Context Provider
+    </h1>
+    <p>
+      null
+    </p>
+    <p>
+      false
+    </p>
+    <button>
+      click on login
+    </button>
+    <button>
+      click on logout
+    </button>
+  </div>
+</div>
+`;

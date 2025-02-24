@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas en "OnTrueLoggedPage" Debe coincidir con el snapshot 1`] = `
+<div>
+  <div
+    class="text-center grid pr-16 space-y-8"
+  >
+    <h1
+      class="text-6xl text-white"
+    >
+      Welcome to Login page
+    </h1>
+    <h2
+      class="text-blue-500 text-3xl"
+    >
+      You are already logged, enjoy.
+    </h2>
+  </div>
+</div>
+`;
